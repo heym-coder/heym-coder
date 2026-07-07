@@ -31,26 +31,6 @@
 
 ---
 
-## 🚀 **This project has moved!**
-
-The official Heym repository is now located at:
-
-# **[github.com/heymrun/heym](https://github.com/heymrun/heym)**
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/heymrun/heym">
-  <img src="https://img.shields.io/badge/⭐-Star%20the%20Repo-FFD700?style=for-the-badge&logo=github" alt="Star Heym">
-</a>
-
-</div>
-
-<br/>
-
----
-
 ## ✨ **What is Heym?**
 
 Heym is an **AI-native automation platform** built from the ground up around LLMs, agents, and intelligent tooling. 
@@ -61,14 +41,14 @@ Heym is an **AI-native automation platform** built from the ground up around LLM
 - **🤖 AI Agents** — Multi-agent orchestration with tool calling and persistent memory
 - **🔍 Built-in RAG** — Upload documents and run semantic search against vector stores
 - **🔌 MCP Support** — Connect to any MCP server or expose workflows as MCP tools
-- **👥 Human-in-the-Loop** — Pause agent execution for human approval and input
+- **🌊 Human-in-the-Loop** — Pause agent execution for human approval and input
 - **🛡️ Guardrails** — Content filtering and safety checks on AI outputs
 - **📊 Observability** — Full LLM traces, cost tracking, and OpenTelemetry export
 - **🌐 Portal** — Turn workflows into public chat interfaces
 - **🧪 Evals** — Test suites for AI workflows with one-click execution
 - **⚡ Parallel Execution** — Automatic concurrent execution based on graph structure
 
-### 🏗️ **Quick Start**
+### 🚀 **Quick Start**
 
 ```bash
 git clone https://github.com/heymrun/heym.git
@@ -80,10 +60,10 @@ Open your browser at `http://localhost:4017`
 
 ---
 
-## 📖 **Learn More**
+## 📚 **Learn More**
 
 - **🌐 Website:** [heym.run](https://heym.run)
-- **📚 Documentation:** [docs.heym.run](https://heym.run/docs)
+- **📖 Documentation:** [docs.heym.run](https://heym.run/docs)
 - **💬 Community:** [Discord](https://discord.gg/T2wXvuVdMX)
 - **🎥 Tutorials:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLPXd_ZbA4wgEHP5PXoaRqbsDJdat7OSd4)
 
