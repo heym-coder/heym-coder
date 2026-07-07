@@ -1,74 +1,83 @@
 <div align="center">
 
-<br/>
+<br />
 
-<img src="https://raw.githubusercontent.com/heymrun/heym/main/docs/readme-assets/logo.svg" width="120" height="120" alt="Heym Logo"/>
+<a href="https://github.com/heymrun/heym">
+  <img src="https://raw.githubusercontent.com/heymrun/heym/main/docs/readme-assets/logo.svg" width="116" height="116" alt="Heym logo" />
+</a>
 
 # Heym Codex
 
-### 🤖 AI-Native Workflow Automation Platform
+### AI-native workflow automation for builders who want control
 
-<p align="center">
-  <strong>Build intelligent AI workflows without writing code.</strong><br/>
-  Visual canvas · AI agents · RAG pipelines · Multi-agent orchestration · MCP support
+<p>
+  <strong>Build AI workflows by prompt or visual canvas.</strong><br />
+  Agents, RAG, MCP, human-in-the-loop review, observability, evals, and self-hosted deployment.
 </p>
 
-<p align="center">
-  <a href="https://heym.run">
-    <img src="https://img.shields.io/badge/🌐-Visit%20heym.run-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZSxsaW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDJ2MjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg==" alt="heym.run">
+<p>
+  <a href="https://github.com/heymrun/heym">
+    <img src="https://img.shields.io/badge/Open%20the%20main%20repo-heymrun%2Fheym-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open the main Heym repository" />
+  </a>
+  <a href="https://github.com/heymrun/heym/stargazers">
+    <img src="https://img.shields.io/github/stars/heymrun/heym?style=for-the-badge&logo=github&label=Star%20Heym&color=ffd33d" alt="Star Heym on GitHub" />
   </a>
 </p>
 
-<br/>
+<p>
+  <a href="https://github.com/heymrun/heym/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT%20%2B%20Commons%20Clause-2ea44f?style=flat-square" alt="MIT plus Commons Clause license" /></a>
+  <a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/badge/Self--hosted-ready-4f46e5?style=flat-square" alt="Self-hosted ready" /></a>
+  <a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/badge/Python-3.11%2B-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python 3.11+" /></a>
+  <a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/badge/Vue.js-3-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js 3" /></a>
+  <a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/badge/Docker-ready-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker ready" /></a>
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://github.com/heymrun/heym/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/heymrun/heym?style=flat-square&logo=github)](https://github.com/heymrun/heym/stargazers)
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+<br />
 
-<br/>
+</div>
 
 ---
 
-## 🚀 **This project has moved!**
+## 🚨 This profile redirects to the main Heym repository
 
-The official Heym repository is now located at:
-
-# **[github.com/heymrun/heym](https://github.com/heymrun/heym)**
-
-<br/>
+This repository is the **Heym Codex profile**. The canonical source code, releases, issues, discussions, documentation, and contribution workflow live in the main Heym repository:
 
 <div align="center">
 
+## 👉 [github.com/heymrun/heym](https://github.com/heymrun/heym)
+
 <a href="https://github.com/heymrun/heym">
-  <img src="https://img.shields.io/badge/⭐-Star%20the%20Repo-FFD700?style=for-the-badge&logo=github" alt="Star Heym">
+  <img src="https://img.shields.io/badge/Go%20to%20Heym-View%20source%2C%20docs%2C%20and%20releases-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Go to the main Heym repository" />
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-## ✨ **What is Heym?**
+## ✨ What is Heym?
 
-Heym is an **AI-native automation platform** built from the ground up around LLMs, agents, and intelligent tooling. 
+**Heym** is a source-available, self-hosted automation platform built from the ground up around LLMs, agents, and intelligent tooling. It lets teams create, observe, and deploy AI workflows from a visual canvas or a natural-language prompt.
 
-### 🎯 **Key Features**
+Use Heym to connect AI agents, vector stores, web automation, HTTP calls, message queues, credentials, and human approval steps into production-ready workflows.
 
-- **🎨 Visual Workflow Editor** — Drag-and-drop canvas with AI-powered workflow generation
-- **🤖 AI Agents** — Multi-agent orchestration with tool calling and persistent memory
-- **🔍 Built-in RAG** — Upload documents and run semantic search against vector stores
-- **🔌 MCP Support** — Connect to any MCP server or expose workflows as MCP tools
-- **👥 Human-in-the-Loop** — Pause agent execution for human approval and input
-- **🛡️ Guardrails** — Content filtering and safety checks on AI outputs
-- **📊 Observability** — Full LLM traces, cost tracking, and OpenTelemetry export
-- **🌐 Portal** — Turn workflows into public chat interfaces
-- **🧪 Evals** — Test suites for AI workflows with one-click execution
-- **⚡ Parallel Execution** — Automatic concurrent execution based on graph structure
+## 🎯 Key features
 
-### 🏗️ **Quick Start**
+| | |
+| --- | --- |
+| 🎨 **Visual workflow editor** | Build flows on a drag-and-drop canvas with a broad node library. |
+| 🤖 **AI agents** | Run tool-calling agents, skills, persistent memory, and multi-agent orchestration. |
+| 💬 **Prompt-to-workflow** | Describe what you need and let the assistant generate workflow nodes. |
+| 🔍 **Built-in RAG** | Upload documents and search managed vector stores from your workflows. |
+| 🔌 **MCP support** | Connect to external MCP servers or expose Heym workflows as MCP tools. |
+| 👥 **Human-in-the-loop** | Pause executions for approval, edits, or additional input. |
+| 🛡️ **Guardrails** | Apply multilingual content safety checks directly on AI nodes. |
+| 📊 **Observability** | Inspect run history, LLM traces, evals, logs, OpenTelemetry, and token cost tracking. |
+| 🌐 **Portal chat apps** | Publish workflows as user-facing chat interfaces. |
+| ⚡ **Parallel execution** | Run independent graph branches concurrently by default. |
+
+## 🚀 Quick start
+
+Clone and run the main repository:
 
 ```bash
 git clone https://github.com/heymrun/heym.git
@@ -76,51 +85,62 @@ cd heym
 ./run.sh
 ```
 
-Open your browser at `http://localhost:4017`
+Then open:
 
----
+```text
+http://localhost:4017
+```
 
-## 📖 **Learn More**
+Prefer Docker? The main repository includes production deployment scripts, environment examples, and detailed setup notes.
 
-- **🌐 Website:** [heym.run](https://heym.run)
-- **📚 Documentation:** [docs.heym.run](https://heym.run/docs)
-- **💬 Community:** [Discord](https://discord.gg/T2wXvuVdMX)
-- **🎥 Tutorials:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLPXd_ZbA4wgEHP5PXoaRqbsDJdat7OSd4)
+## 📚 Resources
 
----
+| Resource | Link |
+| --- | --- |
+| 🌐 Website | [heym.run](https://heym.run) |
+| 🧭 Main repository | [github.com/heymrun/heym](https://github.com/heymrun/heym) |
+| 📖 Documentation | [Docs in the main repo](https://github.com/heymrun/heym/tree/main/docs) |
+| 💡 Full feature set | [Feature reference](https://github.com/heymrun/heym/blob/main/frontend/src/docs/content/reference/features.md) |
+| 💬 Community | [GitHub Discussions](https://github.com/heymrun/heym/discussions) · [Discord](https://discord.gg/T2wXvuVdMX) |
+| 🎥 Tutorials | [Heym tutorial playlist](https://www.youtube.com/playlist?list=PLPXd_ZbA4wgEHP5PXoaRqbsDJdat7OSd4) |
+| 🔐 Security | [Security policy](https://github.com/heymrun/heym/blob/main/SECURITY.md) |
 
-## 🤝 **Contributing**
+## 🤝 Contributing
 
-We welcome contributions! Please visit the main repository to:
+Contributions happen in the main repository. Please use [heymrun/heym](https://github.com/heymrun/heym) to:
 
-- Report bugs and request features
-- Submit pull requests
-- Join discussions
-- Share workflow templates
+- Report bugs and request features.
+- Start or join community discussions.
+- Submit pull requests.
+- Share workflow templates and examples.
+- Improve documentation, tutorials, and deployment guides.
 
-**[Contribute to Heym →](https://github.com/heymrun/heym)**
+Before opening a larger pull request, start a discussion so the maintainers can help shape the approach.
 
----
+## 📄 License
 
-## 📄 **License**
+Heym is licensed under the **MIT License with the Commons Clause condition**. You may use, modify, distribute, and self-host the software, but you may not sell it or offer it as a paid service without a commercial license.
 
-This project is licensed under the **MIT License** with the **Commons Clause** condition.
+Read the full terms in the main repository:
 
-**TL;DR:** Free to use, modify, distribute, and self-host — but you may not sell it or offer it as a paid service. Commercial licensing is available.
+- [LICENSE](https://github.com/heymrun/heym/blob/main/LICENSE)
+- [COMMONS-CLAUSE.md](https://github.com/heymrun/heym/blob/main/COMMONS-CLAUSE.md)
 
 ---
 
 <div align="center">
 
-### 🌟 **Star the main repository to follow updates!**
+## ⭐ Help more builders discover Heym
 
-<a href="https://github.com/heymrun/heym">
-  <img src="https://img.shields.io/badge/GitHub-heymrun%2Fheym-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+If Heym looks useful, please star the main repository:
+
+<a href="https://github.com/heymrun/heym/stargazers">
+  <img src="https://img.shields.io/badge/Star%20heymrun%2Fheym-ffd33d?style=for-the-badge&logo=github&logoColor=181717" alt="Star heymrun/heym" />
 </a>
 
-<br/>
-<br/>
+<br />
+<br />
 
-**Built with ❤️ using Vue.js, FastAPI, and AI**
+**[Open the main Heym repository →](https://github.com/heymrun/heym)**
 
 </div>
