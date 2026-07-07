@@ -38,7 +38,7 @@
 
 ---
 
-## 🚨 This profile redirects to the main Heym repository
+## Main Heym repository
 
 This repository is the **Heym Codex profile**. The canonical source code, releases, issues, discussions, documentation, and contribution workflow live in the main Heym repository:
 
