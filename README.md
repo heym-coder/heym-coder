@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/heymrun/heym/main/docs/readme-assets/logo.svg" width="116" height="116" alt="Heym logo" />
 </a>
 
-# Heym coder
+# Heym Coder
 
 ### AI-native workflow automation for builders who want control
 
