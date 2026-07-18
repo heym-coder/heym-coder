@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/heymrun/heym/main/docs/readme-assets/logo.svg" width="116" height="116" alt="Heym logo" />
 </a>
 
-# Heym Codex
+# Heym coder
 
 ### AI-native workflow automation for builders who want control
 
@@ -40,7 +40,7 @@
 
 ## Main Heym repository
 
-This repository is the **Heym Codex profile**. The canonical source code, releases, issues, discussions, documentation, and contribution workflow live in the main Heym repository:
+This repository is the **Heym coder profile**. The canonical source code, releases, issues, discussions, documentation, and contribution workflow live in the main Heym repository:
 
 <div align="center">
 
